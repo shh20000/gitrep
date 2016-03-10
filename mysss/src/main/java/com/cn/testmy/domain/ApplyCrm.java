@@ -2,9 +2,7 @@ package com.cn.testmy.domain;
 
 import java.io.Serializable;
 import java.util.Date;
-/*
- * Author: Simon Shu
- */
+
 public class ApplyCrm implements Serializable {
 	private static final long serialVersionUID = -4669999477823766186L;
 	
