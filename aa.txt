@@ -1,6 +1,2 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-welcome to git world!
-hhlllllll!
-Git tracks changes.
-asdfasfasdfasdrfwqerqwe3234
