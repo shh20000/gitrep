@@ -1,8 +1,11 @@
 package com.cn.testmy.domain;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class ApplyCrm {
+public class ApplyCrm implements Serializable {
+	private static final long serialVersionUID = -4669999477823766186L;
+	
 	private Long applyCrmId;
 	private String applyName;
 	private String tel;
